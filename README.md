@@ -1,4 +1,4 @@
-## Butuh Pasangan Buat Nemenin Ngoding 🤭
+## Butuh Pasangan Buat Nemenin Ngoding 🥺
 
 Selamat datang di GitHub saya! Saya tertarik pada pengembangan web dan AI, serta mengintegrasikan teknologi dengan pendidikan.
 

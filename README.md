@@ -1,9 +1,9 @@
-## Hai, saya pengen punya pasangan 👋
+## Butuh Pasangan Buat Nemenin Ngoding 🤭
 
 Selamat datang di GitHub saya! Saya tertarik pada pengembangan web dan AI, serta mengintegrasikan teknologi dengan pendidikan.
 
-🔭 Saat ini mengerjakan game edukasi berbasis web dan aplikasi AI.
-🌱 Belajar Python, Flask, dan pengembangan web.
+# 🔭 Saat ini mengerjakan game edukasi berbasis web dan aplikasi AI.
+# 🌱 Belajar Python, Flask, dan pengembangan web.
 
 ### Bahasa Pemrograman:
 

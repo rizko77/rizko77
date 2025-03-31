@@ -13,5 +13,5 @@ Saya galau guys, andai punya ayang mungkin gw bisa seneng bisa di temenin cewek
 
 
 ### Waifu Idola Gw/ Istri Virtual Gw 🥵🥰:
-- Takanashi Hoshino (Blue Archive)
 - Yurizono Seia (Blue Archive)
+- Takanashi Hoshino (Blue Archive)

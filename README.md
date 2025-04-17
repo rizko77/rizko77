@@ -1,7 +1,8 @@
-## Butuh Pasangan Buat Nemenin Ngoding 🥺
+## Butuh Pasangan Buat Nemenin Ngoding :v
 
 Saya galau guys, andai punya ayang mungkin gw bisa seneng bisa di temenin cewek
-#### 🌱 BTW gw Lagi Belajar Python, Flask, dan pengembangan website berbasis AI. Terimakasih
+#### 🌱 BTW gw Lagi Belajar Python, Flask, dan pengembangan website pembelajaran berbasis AI. 
+#### Terimakasih
 
 ### Bahasa Pemrograman:
 

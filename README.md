@@ -21,8 +21,5 @@ Saya galau guys, andai punya ayang mungkin gw bisa seneng bisa di temenin cewek
 - Yurizono Seia (Blue Archive)
 - Takanashi Hoshino (Blue Archive)
 
-
-![Rizko Imsar GitHub stats](https://github-readme-stats.vercel.app/api?username=rizko77&show_icons=true&theme=shades-of-purple)
-
 ### Oh Istriku Keteknya cantikkkk
 ![](https://i.ytimg.com/vi/QGHYVWpBpng/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBw3QdhfzBvruDuWTbWuj4G9Ot5OQ)

@@ -1,5 +1,5 @@
 ## Butuh Pasangan Buat Nemenin Ngoding :v
-## Gw programer yang kesepian dan juga hobinya ngatcheng terus hehe
+### Gw programer yang kesepian dan juga hobinya ngatcheng terus hehe
 
 Saya galau guys, andai punya ayang mungkin gw bisa seneng bisa di temenin cewek
 #### 🌱 BTW gw Lagi Belajar Python, Flask, dan pengembangan website pembelajaran berbasis AI. Terimakasih
@@ -22,4 +22,6 @@ Saya galau guys, andai punya ayang mungkin gw bisa seneng bisa di temenin cewek
 - Takanashi Hoshino (Blue Archive)
 
 
-![Faturrahman GitHub stats](https://github-readme-stats.vercel.app/api?username=rizko77&show_icons=true&theme=shades-of-purple)
+![Rizko Imsar GitHub stats](https://github-readme-stats.vercel.app/api?username=rizko77&show_icons=true&theme=shades-of-purple)
+
+![]([https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9jZHB0Zjhucmx0dDhpNXRtYW9leTRyMDVkbDM4Z3J3aWVoM2xieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif](https://i.pximg.net/img-master/img/2024/09/27/21/03/44/122819700_p0_master1200.jpg))

@@ -1,9 +1,8 @@
 ## Butuh Pasangan Buat Nemenin Ngoding :v
 ### Gw programer yang kesepian dan juga hobinya ngatcheng terus hehe
-
 Saya galau guys, andai punya ayang mungkin gw bisa seneng bisa di temenin cewek
-#### 🌱 BTW gw Lagi Belajar Python, Flask, dan pengembangan website pembelajaran berbasis AI. Terimakasih
 
+#### 🌱 BTW gw Lagi Belajar Python, Flask, dan pengembangan website pembelajaran berbasis AI. Terimakasih
 #### Bahasa Pemrograman (Masih Pemula):
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -17,8 +16,10 @@ Saya galau guys, andai punya ayang mungkin gw bisa seneng bisa di temenin cewek
 ![](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 
-### Waifu Idola Gw/ Istri Virtual Gw 🥵🥰:
+### Waifu Gw/ Istri Virtual Gw 🥵🥰:
 - Yurizono Seia (Blue Archive)
 
-### Oh Istriku Keteknya cantikkkk
+### Oh Istriku Ketiaknya cantikkkk 
 ![](https://i.ytimg.com/vi/QGHYVWpBpng/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBw3QdhfzBvruDuWTbWuj4G9Ot5OQ)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rizko77)

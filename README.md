@@ -2,7 +2,6 @@
 ### Gw programer yang kesepian dan juga hobinya ngatcheng terus hehe
 Saya galau guys, andai punya ayang mungkin gw bisa seneng bisa di temenin cewek
 
-#### 🌱 BTW gw Lagi Belajar Python, Flask, dan pengembangan website pembelajaran berbasis AI. Terimakasih
 #### Bahasa Pemrograman (Masih Pemula):
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

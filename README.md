@@ -12,6 +12,8 @@ Gw galau guys, andai punya ayang mungkin gw bisa seneng bisa di temenin cewek
 #### Framework and Library
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 
 ### Waifu Gw/ Istri Virtual Gw 🥵🥰:

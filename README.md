@@ -19,7 +19,4 @@ Gw galau guys, andai punya ayang mungkin gw bisa seneng bisa di temenin cewek
 ### Waifu Gw/ Istri Virtual Gw 🥵🥰:
 - Yurizono Seia (Blue Archive)
 
-### Oh Istriku Ketiaknya cantikkkk 
-![](https://i.ytimg.com/vi/QGHYVWpBpng/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBw3QdhfzBvruDuWTbWuj4G9Ot5OQ)
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rizko77)

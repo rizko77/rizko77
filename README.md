@@ -15,8 +15,4 @@ Gw galau guys, andai punya ayang mungkin gw bisa seneng bisa di temenin cewek
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 
-
-### Waifu Gw/ Istri Virtual Gw 🥵🥰:
-- Yurizono Seia (Blue Archive)
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rizko77)

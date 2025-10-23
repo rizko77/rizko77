@@ -1,14 +1,15 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q5NTY3bndsd2Q1YWJrcG1tb2hucXh2cG93YXh1bmlqcmFvbWh6ZSZlcD12MV9pbnRlcm5hbF9naWZfYWN0aW9uJmN0PWc/Q81N4s0Vp4v3N5xV4M/giphy.gif" width="100"/>
+  <img src="https://rizkoimsar.netlify.app/img/logo.png" width="100"/>
   <h1>👋 Halo, Saya Programer yang Siap Berkarya!</h1>
   <p>Mencari tantangan baru dan selalu bersemangat untuk belajar dan membangun hal-hal keren dengan kode.</p>
 </div>
 
 ---
 
-## 🛠️ Tumpukan Teknologi Saya (My Tech Stack)
+## My Tech Stack
 
 <div align="center">
+  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 

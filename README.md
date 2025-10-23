@@ -4,7 +4,8 @@
       <img src="https://rizkoimsar.netlify.app/img/logo.png" width="100" alt="Logo Anda">
     </td>
     <td valign="top">
-      <h1>Saya Programer yang butuh wanita untuk pasangan</h1>
+      <h1>Rizko Imsar</h1>
+      <h3>Saya Programer yang butuh wanita untuk pasangan</h3>
       <p>Butuh pasangan untuk menemani aku ngoding agar aku bisa semangat dalam membuat kode</p>
     </td>
   </tr>

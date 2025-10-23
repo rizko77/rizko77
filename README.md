@@ -4,17 +4,16 @@
       <img src="https://rizkoimsar.netlify.app/img/logo.png" width="100" alt="Logo Anda">
     </td>
     <td valign="top">
-      <h1>Rizko Imsar</h1>
-      <h3>Saya Programer yang butuh wanita untuk pasangan</h3>
+      <h2>Programer yang butuh wanita untuk pasangan</h2>
       <p>Butuh pasangan untuk menemani aku ngoding agar aku bisa semangat dalam membuat kode</p>
     </td>
   </tr>
 </table>
 
 
-## My Tech Stack
+## 🛠️ My Tech Stack
 
-<div align="center">
+<div>
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 

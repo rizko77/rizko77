@@ -33,7 +33,7 @@
 ---
 
 <p>
-  <img src="https://id.pinterest.com/pin/381961612166147103/" alt="Ketiak" />
+  <img src="https://i.pinimg.com/736x/aa/96/fe/aa96fe52d8a520f5309305f16c81b18f.jpg" width="100" alt="Gambar Kecil">
 </p>
 
 ---

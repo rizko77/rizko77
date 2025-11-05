@@ -34,7 +34,7 @@
 ## ❤️ My Ketec Bini
 
 <p>
-  <img src="https://i.pinimg.com/1200x/28/d4/03/28d403b7a1f744c785ee5832b0de6d91.jpg" width="100" alt="Gambar Kecil">
+  <img src="https://i.pinimg.com/1200x/28/d4/03/28d403b7a1f744c785ee5832b0de6d91.jpg" width="200" alt="Gambar Kecil">
   <img src="https://kokodocs.netlify.app/f/Ketiak%20Seia.jpeg" width="100" alt="Gambar Kecil">
   <img src="https://i.pinimg.com/736x/42/4c/c7/424cc76548287a801870a153a2c9c681.jpg" width="100" alt="Gambar Kecil">
   <img src="https://i.pinimg.com/1200x/1a/b1/7d/1ab17d6af59c191dc3012ae2e51022e3.jpg" width="100" alt="Gambar Kecil">

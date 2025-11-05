@@ -4,8 +4,8 @@
       <img src="https://rizkoimsar.netlify.app/img/logo.png" width="100" alt="Logo Anda">
     </td>
     <td valign="top">
-      <h2>Programer yang butuh wanita untuk pasangan</h2>
-      <p>Butuh pasangan untuk menemani aku ngoding agar aku bisa semangat dalam membuat kode</p>
+      <h2>Programer Yang Butuh Cewek Untuk Pasangan</h2>
+      <p>Butuh Pasangan Untuk Menemaniku Ngoding Agar Ku Bisa Semangat Dalam Membuat Kode</p>
     </td>
   </tr>
 </table>
@@ -29,6 +29,12 @@
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
+---
+
+<p>
+  <img src="https://id.pinterest.com/pin/381961612166147103/" alt="Ketiak" />
+</p>
 
 ---
 

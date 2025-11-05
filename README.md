@@ -39,5 +39,6 @@
 ---
 
 <p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rizko77" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rizko77" width="100" alt="Visitor Badge" />
+  <img src="https://kokodocs.netlify.app/f/Ketiak%20Seia.jpeg" width="100" alt="Visitor Badge" />
 </p>

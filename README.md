@@ -34,11 +34,11 @@
 
 <p>
   <img src="https://i.pinimg.com/736x/aa/96/fe/aa96fe52d8a520f5309305f16c81b18f.jpg" width="100" alt="Gambar Kecil">
+  <img src="https://kokodocs.netlify.app/f/Ketiak%20Seia.jpeg" width="100" alt="Gambar Kecil">
 </p>
 
 ---
 
 <p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rizko77" width="100" alt="Visitor Badge" />
-  <img src="https://kokodocs.netlify.app/f/Ketiak%20Seia.jpeg" width="100" alt="Visitor Badge" />
 </p>

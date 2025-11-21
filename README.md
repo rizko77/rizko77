@@ -1,4 +1,4 @@
-<table width="100%">
+<table width="120%">
   <tr>
     <td width="120" valign="top">
       <img src="https://rizkoimsar.netlify.app/img/logo.png" width="100" alt="Logo Anda">

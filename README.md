@@ -5,8 +5,8 @@
       <img src="https://digination.ppi.id/_next/image?url=%2Fimage%2Fpartners%2Fimphnen.png&w=384&q=75" width="200" alt="Logo Anda">
     </td>
     <td valign="top">
-      <h2>Programer Yang Butuh Cewek Untuk Pasangan</h2>
-      <p>Butuh Pasangan Untuk Menemaniku Ngoding Agar Ku Bisa Semangat Dalam Membuat Kode</p>
+      <h2>Programer Malas Yang Juga Butuh Cewek Untuk Pasangan</h2>
+      <p>Butuh Pasangan Untuk Menemaniku Ngoding Agar Ku Bisa Rajin Dalam Membuat Kode</p>
     </td>
   </tr>
 </table>

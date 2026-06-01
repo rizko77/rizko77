@@ -1,4 +1,5 @@
-<img width="460" height="244" alt="image" src="https://github.com/user-attachments/assets/f24ed9c3-fc12-4643-9bfc-0eae0df94399" /><table width="120%">
+
+<table width="120%">
   <tr>
     <td width="120" valign="top">
       <img src="https://rizkoimsar.netlify.app/img/logo.png" width="100" alt="Logo Anda">

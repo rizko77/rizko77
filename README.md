@@ -33,18 +33,6 @@
 </div>
 
 ---
-## ❤️ My Ketec Bini ( No Karbit :3 )
-
-<p>
-  <img src="https://static.zerochan.net/Sunohara.Kokona.full.4289695.jpg" width="110" alt="ketiak kokona">
-  <img src="https://kokodocs.netlify.app/img/ketiak-seia-3.jpeg" width="110" alt="ketiak seia">
-  <img src="https://i.pinimg.com/736x/42/4c/c7/424cc76548287a801870a153a2c9c681.jpg" width="100" alt="Gambar Kecil">
-  <img src="https://static.zerochan.net/Kuromi.Serika.full.4404213.jpg" width="100" alt="ketiak serika">
-  <img src="https://i.pinimg.com/1200x/28/d4/03/28d403b7a1f744c785ee5832b0de6d91.jpg" width="200" alt="Gambar Kecil">
-  
-</p>
-
----
 
 <p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rizko77" width="100" alt="Visitor Badge" />

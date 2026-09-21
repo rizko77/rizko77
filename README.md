@@ -1,12 +1,8 @@
 
 <table width="120%">
   <tr>
-    <td width="120" valign="top">
-      <img src="https://rizkoimsar.netlify.app/img/logo.png" width="100" alt="Logo Anda">
-      <img src="https://imphnen.dev/logo.webp" width="200" alt="Logo Anda">
-    </td>
     <td valign="top">
-      <h2>Programer Malas Yang Juga Butuh Cewek Untuk Pasangan</h2>
+      <h2>Programer Juga Butuh Cewek Untuk Pasangan</h2>
       <p>Butuh Pasangan Untuk Menemaniku Ngoding Agar Ku Bisa Rajin Dalam Membuat Kode</p>
     </td>
   </tr>

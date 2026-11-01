@@ -1,65 +1,50 @@
- <div align="center">
+<div align="center">
 
-# 👋 Halo, Saya Rizko!
+  <!-- Animasi Typing SVG -->
+  <a href="https://github.com/rizko77">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=540&lines=echo+%22Halo%2C+saya+Rizko!%22;Programmer+juga+butuh+pasangan+%F0%9F%A4%9D;Biar+ngodingnya+makin+rajin+%26+fokus;Web+%26+Backend+Developer" alt="Typing SVG" />
+  </a>
 
-### 💻 Web Developer | Code Enthusiast
+  <p>
+    <i>"Mencari solusi bug di terminal, sekaligus mencari pasangan biar nggak ngoding sendirian."</i> ☕
+  </p>
 
-Membangun ide menjadi kode, satu baris demi satu baris.
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=rizko77&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Visitor Badge" />
+  </p>
 
-*Programmer juga manusia. Kadang butuh debugging, kadang butuh pasangan buat menemani ngoding.* ❤️
+</div>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend Development**
+<div align="center">
+  <!-- Skill Icons Grid -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,php,laravel,mysql,py,linux,git,github" alt="Tech Stack" />
+  </a>
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
+<br/>
 
-**Backend & Database**
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-**Programming & Development Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+<div align="center">
+  <!-- Badge Pelengkap Framework & Database -->
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</div>
 
 ---
 
-### 💬 A Little About Me
+<div align="center">
 
-```javascript
-const rizko = {
-  role: "Web Developer",
-  passion: ["Coding", "Learning", "Building Projects"],
-  mindset: "Keep learning, keep building!",
-  relationshipStatus: "404: Partner Not Found ❤️"
-};
-```
+  ### 📊 Statistik GitHub
 
-### 👀 Profile Visitors
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rizko77&left_color=gray&right_color=blue" alt="Profile Visitors" />
-
----
-
-**Thanks for visiting my profile!**
-
-*May your code compile and your bugs disappear.* 🚀
+  <img src="https://github-readme-stats.vercel.app/api?username=rizko77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizko77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
 
 </div>

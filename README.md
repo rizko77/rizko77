@@ -2,7 +2,7 @@
 
   <!-- Animasi Typing SVG -->
   <a href="https://github.com/rizko77">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=540&lines=echo+%22Halo%2C+saya+Rizko!%22;Programmer+juga+butuh+pasangan+%F0%9F%A4%9D;Biar+ngodingnya+makin+rajin" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=540&lines=echo+%22Halo%2C+saya+Rizko!%22;Programmer+juga+butuh+pasangan+%E2%9D%A4%EF%B8%8F;Biar+ngodingnya+makin+rajin" alt="Typing SVG" />
   </a>
 
   <p>

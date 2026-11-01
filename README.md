@@ -2,7 +2,7 @@
 
   <!-- Animasi Typing SVG -->
   <a href="https://github.com/rizko77">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=540&lines=echo+%22Halo%2C+saya+Rizko!%22;Programmer+juga+butuh+pasangan+%F0%9F%A4%9D;Biar+ngodingnya+makin+rajin+%26+fokus;Web+%26+Backend+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=540&lines=echo+%22Halo%2C+saya+Rizko!%22;Programmer+juga+butuh+pasangan+%F0%9F%A4%9D;Biar+ngodingnya+makin+rajin" alt="Typing SVG" />
   </a>
 
   <p>
@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=rizko77&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Visitor Badge" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=rizko77" width="100" alt="Visitor Badge" />
   </p>
 
 </div>
@@ -38,13 +38,3 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </div>
 
----
-
-<div align="center">
-
-  ### 📊 Statistik GitHub
-
-  <img src="https://github-readme-stats.vercel.app/api?username=rizko77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizko77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
-
-</div>
